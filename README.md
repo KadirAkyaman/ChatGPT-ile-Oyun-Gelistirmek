@@ -16,3 +16,5 @@ Projede karakter mekaniklerini geliştirmek için genel olarak animasyon kontrol
 # Projeyi incelemek isteyenler
 
 Projeyi incelemek isteyenler Gameplay adlı videoyu izleyebilirler. Ayrıca ChatGPT'ye yazdırdığım kodlar Assets klasörünün içindeki Scripts klasöründe mevcuttur.
+
+![231598109-3986cf8e-b2af-4603-9fad-4b6d43416d87](https://user-images.githubusercontent.com/101833015/231598785-f51a634e-9bee-415f-a3be-006a3b0f6c0a.png)
