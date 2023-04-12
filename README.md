@@ -13,4 +13,6 @@ Gelecekte, yapay zeka teknolojisinin oyun endüstrisindeki kullanımı artmaya d
 
 Projede karakter mekaniklerini geliştirmek için genel olarak animasyon kontrolü, karakter hareket kontrolü, kamera kontrolü, mouse hareketleri ve ateşleme sistemi üzerinde çalıştım. Bu konulara odaklanarak, yapay zeka teknolojisinin yardımıyla daha hızlı ve verimli bir geliştirme süreci geçirdim.
 
+# Projeyi incelemek isteyenler
 
+Projeyi incelemek isteyenler Gameplay adlı videoyu izleyebilirler. Ayrıca ChatGPT'ye yazdırdığım kodlar Assets klasörünün içindeki Scripts klasöründe mevcuttur.
